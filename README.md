@@ -1,2 +1,0 @@
-# autotyper
-autotyper html javascript
